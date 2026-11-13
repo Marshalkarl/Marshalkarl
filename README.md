@@ -49,7 +49,7 @@ I'm passionate about building clean, intuitive web applications and decentralize
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Marshalkarl&show_icons=true)
+
 
 ## 🚀 Featured Projects
 
