@@ -11,10 +11,7 @@ I'm passionate about building clean, intuitive web applications and decentralize
 - 🤖 I'm interested in AI, automation, bots and developer agents
 - 🌱 Always learning something new
 
-## ⏲️ Wakatime Stats:
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 
 ## 🛠️ Tech Stack
